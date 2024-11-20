@@ -113,13 +113,13 @@ We write comprehensive unit tests and integration tests for React components usi
 ### Clone the project
 
 ```bash
-  git clone https://github.com/RishiBakshii/mern-ecommerce.git
+  git clone https://github.com/lokesh-aj/ThriftKaro.git
 ```
 
 ### Navigate to the project directory
 
 ```bash
-  cd mern-ecommerce
+  cd ThriftKaro
 ```
 
 ### Install dependencies for frontend and backend separately
