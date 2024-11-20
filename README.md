@@ -104,5 +104,46 @@ We write comprehensive unit tests and integration tests for React components usi
    - Regular data backups should be performed to prevent data loss in case of system failures.
    - A robust data recovery mechanism should be in place to restore the website in the event of any unforeseen issues.
 
+# **Project Setup**
+
+### Prerequisites
+- Node.js
+- MongoDB installed and running locally
+
+### Clone the project
+
+```bash
+  git clone https://github.com/RishiBakshii/mern-ecommerce.git
+```
+
+### Navigate to the project directory
+
+```bash
+  cd mern-ecommerce
+```
+
+### Install dependencies for frontend and backend separately
+**Tip:** To efficiently install dependencies for both frontend and backend simultaneously, use split terminals.
+
+
+Install Socket dependencies
+
+```bash
+cd socket
+npm install
+```
+Install backend dependencies
+
+```bash
+cd backend
+npm run dev
+```
+
+Install frontend dependencies
+```bash
+cd frontend
+npm install
+```
+
 
 
